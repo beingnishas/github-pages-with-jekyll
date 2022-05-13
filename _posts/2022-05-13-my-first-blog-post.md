@@ -1,4 +1,4 @@
-Day 1: Introduction to Jekyll Themed Blog post
-
-Hi there,
-  I am writing this as a practice lab
+---
+title: "Day 1. Introduction to Jekyll Themed Blog post"
+date: 2022-05-13
+---
